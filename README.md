@@ -1,7 +1,6 @@
 # app_dev
-#H1 My Second Repository
-**bold text** *italicized text* 
-- Spider-Man: Brand New Day
+# H1 My Second Repository
+**bold text** - Spider-Man: Brand New Day
   ![Spider-Man](spiderman.jpg)
-- Stranger Things
+**bold text** - Stranger Things
   ![Stranger Things](strangerthings.jpg)
