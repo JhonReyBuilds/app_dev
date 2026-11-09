@@ -1,9 +1,6 @@
-# app_dev
 # H1
-My Second Repository
-**bold text** 
+My Favorite Movies
 - Spider-Man: Brand New Day
   ![Spider-Man](spiderman.jpg)
-**bold text** 
 - Stranger Things
   ![Stranger Things](strangerthings.jpg)
